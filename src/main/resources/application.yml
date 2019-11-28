@@ -1,0 +1,84 @@
+spring:
+  datasource:
+    test1:
+      url: jdbc:sqlite:E:\\quanqiu.mbtiles
+    test2:  
+      url: jdbc:sqlite:D:\\resource\\quanqiugoogle.mbtiles
+    test3:  
+      url: jdbc:sqlite:E:\\quanqiugoogle.mbtiles
+    test4:  
+      url: jdbc:sqlite:E:\\二岛链\\二岛链_MBLites\\二岛链.mbtiles
+    test5:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles
+    test6:
+      url: jdbc:sqlite:E:\\quanqiu.mbtiles
+    test7:  
+      url: jdbc:sqlite:D:\\resource\\quanqiugoogle.mbtiles
+    test8:  
+      url: jdbc:sqlite:E:\\quanqiugoogle.mbtiles
+    test9:  
+      url: jdbc:sqlite:E:\\二岛链\\二岛链_MBLites\\二岛链.mbtiles
+    test10:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles  
+    test11:
+      url: jdbc:sqlite:E:\\quanqiu.mbtiles
+    test12:  
+      url: jdbc:sqlite:D:\\resource\\quanqiugoogle.mbtiles
+    test13:  
+      url: jdbc:sqlite:E:\\quanqiugoogle.mbtiles
+    test14:  
+      url: jdbc:sqlite:E:\\二岛链\\二岛链_MBLites\\二岛链.mbtiles
+    test15:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles
+    test16:
+      url: jdbc:sqlite:E:\\quanqiu.mbtiles
+    test17:  
+      url: jdbc:sqlite:D:\\resource\\quanqiugoogle.mbtiles
+    test18:  
+      url: jdbc:sqlite:E:\\quanqiugoogle.mbtiles
+    test19:  
+      url: jdbc:sqlite:E:\\二岛链\\二岛链_MBLites\\二岛链.mbtiles
+    test20:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles 
+    test21:
+      url: jdbc:sqlite:E:\\quanqiu.mbtiles
+    test22:  
+      url: jdbc:sqlite:D:\\resource\\quanqiugoogle.mbtiles
+    test23:  
+      url: jdbc:sqlite:E:\\quanqiugoogle.mbtiles
+    test24:  
+      url: jdbc:sqlite:E:\\二岛链\\二岛链_MBLites\\二岛链.mbtiles
+    test25:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles
+    test26:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles 
+    test27:
+      url: jdbc:sqlite:E:\\quanqiu.mbtiles
+    test28:  
+      url: jdbc:sqlite:D:\\resource\\quanqiugoogle.mbtiles
+    test29:  
+      url: jdbc:sqlite:E:\\quanqiugoogle.mbtiles
+    test30:  
+      url: jdbc:sqlite:E:\\二岛链\\二岛链_MBLites\\二岛链.mbtiles
+    test31:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles  
+    test32:  
+      url: jdbc:sqlite:D:\\resource\\quanqiugoogle.mbtiles
+    test33:  
+      url: jdbc:sqlite:E:\\quanqiugoogle.mbtiles
+    test34:  
+      url: jdbc:sqlite:E:\\二岛链\\二岛链_MBLites\\二岛链.mbtiles
+    test35:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles
+    test36:  
+      url: jdbc:sqlite:E:\\第二岛链\\第二岛链_MBLites\\第二岛链.mbtiles 
+    test37:
+      url: jdbc:sqlite:E:\\quanqiu.mbtiles
+    test38:  
+      url: jdbc:sqlite:D:\\resource\\quanqiugoogle.mbtiles
+    test39:  
+      url: jdbc:sqlite:E:\\quanqiugoogle.mbtiles
+    test40:  
+      url: jdbc:sqlite:E:\\二岛链\\二岛链_MBLites\\二岛链.mbtiles           
+#### 上方添加的图层需要在下面layers中指定，以逗号分隔 ####      
+layers: test1,test2,test3,test4,test5,test6,test7,test8,test9,test10,test11,test12,test13,test14,test15,test16,test17,test18,test19,test20,test21,test22,test23,test24,test25,test26,test27,test28,test29,test30,test31,test32,test33,test34,test35,test36,test37,test38,test39,test40
